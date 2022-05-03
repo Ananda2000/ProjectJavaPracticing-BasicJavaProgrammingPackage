@@ -1,0 +1,2 @@
+# ProjectJavaPracticing-BasicJavaProgrammingPackage
+This is "ProjectJavaPracticing-BasicJavaProgrammingPackage"
